@@ -9,6 +9,7 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+  font-size: 15px;
 
   @media all and ($mobile) {
     scroll-padding-top: 4rem;
