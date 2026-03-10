@@ -9,9 +9,7 @@ tags:
 ---
 # > **:re ¿**
 
-re as in Reply. re as in Regarding.
-re as in Zero. re as in Repeat.
-re as in Rebirth. re as in King.
+re as in Reply, as in Regarding, as in Zero., as in Repeat, as in Rebirth and as in King.
 
 **:re garden** - a sovereign garden of thought, where ideas return, begin again and grow into the person who tends them. 
 # **> garden ¿**
