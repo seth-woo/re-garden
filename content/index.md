@@ -1,5 +1,5 @@
 ---
-title: "Welcome to re: garden"
+title: "Welcome to :re garden"
 tags:
   - quartz
   - autonomy
@@ -7,5 +7,3 @@ tags:
   - tasks
   - zettelkasten
 ---
-
-
