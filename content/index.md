@@ -7,3 +7,10 @@ tags:
   - tasks
   - zettelkasten
 ---
+# :re ?
+
+
+# garden ?
+
+
+# whoami ?
