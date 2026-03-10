@@ -9,28 +9,12 @@ tags:
 ---
 # :re ?
 
+re as in Reply. re as in Regarding.
+re as in Zero. re as in Repeat.
+re as in Rebirth. re as in King.
 
+:re garden - a sovereign garden of thought, where ideas return, begin again and grow into the person who tends them. 
 # garden ?
 
 
 # whoami ?
-
-
-# this is heading 1
-
-this is normal text
-## this is heading 2 
-
-this is normal text
-### this is heading 3
-
-this is normal text
-#### this is heading 4
-
-this is normal text
-##### this is heading 5
-
-this is normal text
-###### this is heading 6
-
-this is normal text
