@@ -14,7 +14,7 @@ re as in Reply (*Re:*), as in Regarding (*Latin: in re*), as in Zero or Rebirth 
 **:re garden** - a sovereign garden of thought, where ideas return, begin again and grow into the person who tends them. 
 # **> garden ¿**
 
-a digital garden is 
+**:re garden** is an online, personal knowledge base, consisting of **imperfect**, **incomplete**, **evolving** notes, ideas, and **seedling** thoughts, updated, pruned and refined over time so they may eventually mature.
 
 ```
         o   o        v      .   .                     *   *                o   o
