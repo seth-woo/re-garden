@@ -34,41 +34,32 @@ _________|_________________|_______________________|_____________________|______
 
 # **> :re garden ¿**
 
-`<img   src="creature_light.png"   class="light-mode-img"   width="341"   alt="Creature Light">`
-`<img   src="creature_dark.png"   class="dark-mode-img"   width="341"   alt="Creature Dark">`
-
-`<style>`
-  .**dark-mode-img** { display: **none**; }
-@media (prefers-color-scheme: **dark**) {
-    .**light-mode-img** { display: **none**; }
-    .**dark-mode-img** { display: **inline**; }
-  }
-`</style>`
+<img   src="creature_light.png"   class="light-mode-img"   width="341"   alt="Creature Light">
+<img   src="creature_dark.png"   class="dark-mode-img"   width="341"   alt="Creature Dark">
 
 # **> whoami ¿**
 
 **Seth W.** - digital gardener and maintainer of  **:re garden**.
-
 <div style="display:flex; align-items:center; gap:16px;">
 
 <span>
-for more information, scan ->:
+for more information, please scan ------------------>:
 </span>
 
 <div style="display:inline-block; position:relative; padding:12px; font-family:monospace;">
 
-  `<img src="Seth W.png" width="84">`
+  <img src="Seth W.png" width="84">
 
-  `<span style="position:absolute; top:0; left:0;">`o
-  `<span style="position:absolute; top:0; right:0;">`o
-  `<span style="position:absolute; bottom:0; left:0;">`+
-  `<span style="position:absolute; bottom:0; right:0;">`+
+  <span style="position:absolute; top:0; left:0;">o</span>
+  <span style="position:absolute; top:0; right:0;">o</span>
+  <span style="position:absolute; bottom:0; left:0;">+</span>
+  <span style="position:absolute; bottom:0; right:0;">+</span>
 
-  `<span style="position:absolute; top:0; left:8px; right:8px; text-align:center;">`-------------
-  `<span style="position:absolute; bottom:0; left:8px; right:8px; text-align:center;">`-------------
+  <span style="position:absolute; top:0; left:8px; right:8px; text-align:center;">-------------</span>
+  <span style="position:absolute; bottom:0; left:8px; right:8px; text-align:center;">-------------</span>
 
-  `<span style="position:absolute; left:0; top:10px; bottom:10px;">`|
-  `<span style="position:absolute; right:0; top:10px; bottom:10px;">`|
+  <span style="position:absolute; left:0; top:10px; bottom:10px;">|</span>
+  <span style="position:absolute; right:0; top:10px; bottom:10px;">|</span>
 
 </div>
 
