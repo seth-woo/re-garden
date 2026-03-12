@@ -39,7 +39,7 @@ _________|_________________|_______________________|_____________________|______
 
 # **> whoami ¿**
 
-**Seth W.** - digital gardener and maintainer of  **:re garden**.
+**Seth W.** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
 <div style="display:flex; align-items:center; gap:16px;">
 
 <span>
