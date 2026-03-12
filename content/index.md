@@ -60,7 +60,7 @@ creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work)
 <div style="display:flex; align-items:center; gap:16px;">
 
 <span>
-for more information, scan ---------------------->:
+for more information, scan ------------------->:
 </span>
 
 <div style="display:inline-block; position:relative; padding:12px; font-family:monospace;">
