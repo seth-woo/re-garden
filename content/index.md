@@ -38,8 +38,11 @@ _________|_________________|_______________________|_____________________|______
 # **> whoami ¿**
 
 **Seth W.** - digital gardener and maintainer of  **:re garden**.
+<div style="display:flex; align-items:center; gap:16px;">
 
-for more information, please scan the following QR code:
+<span>
+for more information, scan ->:
+</span>
 
 <div style="display:inline-block; position:relative; padding:12px; font-family:monospace;">
 
@@ -58,6 +61,6 @@ for more information, please scan the following QR code:
 
 </div>
 
-
+</div>
 
 
