@@ -34,16 +34,31 @@ _________|_________________|_______________________|_____________________|______
 
 # **> :re garden ¿**
 
-<img   src="creature_light.png"   class="light-mode-img"   width="341"   alt="Creature Light">
-<img   src="creature_dark.png"   class="dark-mode-img"   width="341"   alt="Creature Dark">
+**:re garden** ethos
 
+<div style="display: flex; align-items: flex-start; gap: 2rem;">
+  <img src="creature_light.png" class="light-mode-img" width="311" alt="Creature Light" style="margin: 0;">
+  <img src="creature_dark.png" class="dark-mode-img" width="311" alt="Creature Dark" style="margin: 0;">
+  <div style="border: 3px dashed var(--gray); border-radius: 5px; padding: 1rem; min-width: 200px; min-height: 150px;">
+    memetic echoes ...<br>
+    of experiences never lived<br>
+    <br>
+    nostalgia without origin ...<br>
+	fragments seeking form<br>
+	<br>
+    recombined here ... <br>
+    the garden starts again .☘︎ ݁˖
+  </div>
+</div>
+
+creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work)
 # **> whoami ¿**
 
 **Seth W.** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
 <div style="display:flex; align-items:center; gap:16px;">
 
 <span>
-for more information, scan -------------------------->:
+for more information, scan ---------------------->:
 </span>
 
 <div style="display:inline-block; position:relative; padding:12px; font-family:monospace;">
