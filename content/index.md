@@ -49,6 +49,8 @@ _________|_________________|_______________________|_____________________|______
     recombined here ... <br>
     the garden starts again .☘︎ ݁˖
   </div>
+  <img src="humanoid_light.png" class="light-mode-img" width="100" alt="Humanoid Light" style="margin: 0;">
+  <img src="humanoid_dark.png" class="dark-mode-img" width="100" alt="Humanoid Dark" style="margin: 0;">
 </div>
 
 creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work)
