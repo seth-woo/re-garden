@@ -40,6 +40,23 @@ _________|_________________|_______________________|_____________________|______
 
 for more information, please scan the following QR code:
 
-<div style="display:inline-block; padding:8px; border:1px dashed #6a6a6a;">
-  <img src="/static/Seth%20W.png" width="84">
+<div style="display:inline-block; position:relative; padding:12px; font-family:monospace;">
+
+  <img src="Seth W.png" width="84">
+
+  <span style="position:absolute; top:0; left:0;">o</span>
+  <span style="position:absolute; top:0; right:0;">o</span>
+  <span style="position:absolute; bottom:0; left:0;">+</span>
+  <span style="position:absolute; bottom:0; right:0;">+</span>
+
+  <span style="position:absolute; top:0; left:8px; right:8px; text-align:center;">-------------</span>
+  <span style="position:absolute; bottom:0; left:8px; right:8px; text-align:center;">-------------</span>
+
+  <span style="position:absolute; left:0; top:10px; bottom:10px;">|</span>
+  <span style="position:absolute; right:0; top:10px; bottom:10px;">|</span>
+
 </div>
+
+
+
+
