@@ -34,6 +34,7 @@ _________|_________________|_______________________|_____________________|______
 
 # **> :re garden ¿**
 
+![[creature_light.png|341]]
 # **> whoami ¿**
 
 **Seth W.** - digital gardener and maintainer of  **:re garden**.
