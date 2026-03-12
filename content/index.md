@@ -37,11 +37,8 @@ _________|_________________|_______________________|_____________________|______
 `<img   src="creature_light.png"   class="light-mode-img"   width="341"   alt="Creature Light">`
 `<img   src="creature_dark.png"   class="dark-mode-img"   width="341"   alt="Creature Dark">`
 
-**`<style>`**
-/* Hide dark mode image by default */
+`<style>`
   .**dark-mode-img** { display: **none**; }
-
-/* Quartz uses prefers-color-scheme media query */
 @media (prefers-color-scheme: **dark**) {
     .**light-mode-img** { display: **none**; }
     .**dark-mode-img** { display: **inline**; }
