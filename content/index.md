@@ -41,9 +41,5 @@ _________|_________________|_______________________|_____________________|______
 for more information, please scan the following QR code:
 
 <div style="display:inline-block; padding:8px; border:1px dashed #6a6a6a;">
-  <img src="static/Seth W.png" width="84">
-</div>
-
-
-
+  <img src="/static/Seth%20W.png" width="84">
 </div>
