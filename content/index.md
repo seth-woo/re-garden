@@ -34,11 +34,16 @@ _________|_________________|_______________________|_____________________|______
 
 # **> :re garden ¿**
 
- 
 # **> whoami ¿**
 
 **Seth W.** - digital gardener and maintainer of  **:re garden**.
 
 for more information, please scan the following QR code:
 
-![[Seth W.png|84]]
+<div style="display:inline-block; padding:8px; border:1px dashed #6a6a6a;">
+  <img src="static/Seth W.png" width="84">
+</div>
+
+
+
+</div>
