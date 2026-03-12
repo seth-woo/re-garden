@@ -32,7 +32,7 @@ these **seedlings** are updated, pruned and refined over time so they may eventu
 _________|_________________|_______________________|_____________________|____________________|________________|____
 ```
 
-# **> systeminfo ¿**
+# **> :re garden ¿**
 
  
 # **> whoami ¿**
