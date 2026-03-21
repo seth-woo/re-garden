@@ -56,4 +56,4 @@ _________|_________________|_______________________|_____________________|______
 creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work)
 # **> whoami ¿**
 
-**[Seth W.]**(https://seth-woo.github.io/) - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
+**[Seth W.](https://seth-woo.github.io/)** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
