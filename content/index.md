@@ -37,7 +37,7 @@ _________|_________________|_______________________|_____________________|______
 **:re garden** ethos
 
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
-<div style="border: 2px dashed var(--gray); border-radius: 5px; padding: 1rem; min-width: 200px; min-height: 150px;">
+<div style="border: 2px dotted var(--gray); border-radius: 5px; padding: 0.5rem; min-width: 200px; min-height: 150px;">
     memetic echoes ...<br>
     of experiences never lived<br>
     <br>
@@ -47,8 +47,8 @@ _________|_________________|_______________________|_____________________|______
     recombined here ... <br>
     the garden starts again .☘︎ ݁˖
   </div>
-  <img src="creature_light.png" class="light-mode-img" width="311" alt="Creature Light" style="margin: 0;">
-  <img src="creature_dark.png" class="dark-mode-img" width="311" alt="Creature Dark" style="margin: 0;">
+  <img src="creature_light.png" class="light-mode-img" width="300" alt="Creature Light" style="margin: 0;">
+  <img src="creature_dark.png" class="dark-mode-img" width="300" alt="Creature Dark" style="margin: 0;">
   <img src="humanoid_light.png" class="light-mode-img" width="100" alt="Humanoid Light" style="margin: 0;">
   <img src="humanoid_dark.png" class="dark-mode-img" width="100" alt="Humanoid Dark" style="margin: 0;">
 </div>
