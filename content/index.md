@@ -10,7 +10,6 @@ tags:
 # > **:re ¿**
 re as in **Reply** (*Re:*), as in **Regarding** (*Latin: in re*), as in **Zero** or **Rebirth** (*零*), and as in **King** (*Maltese: Re*).
 **:re garden** - a sovereign garden of thought, where ideas return, begin again and grow into the person who tends them.
-
 # **> garden ¿**
 **:re garden**  - an online, personal knowledge base, consisting of **imperfect**, **incomplete**, **evolving** notes, ideas, and **seedling** thoughts. These **seedlings** are updated, pruned and refined over time so they may eventually mature.
 ```
@@ -27,6 +26,7 @@ _________|_________________|_______________________|_____________________|______
 ```
 # **> :re garden ¿**
 **:re garden** ethos
+
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
 <div style="border: 2px dotted var(--gray); border-radius: 5px; padding: 0.5rem; min-width: 200px; min-height: 150px;">
     memetic echoes ...<br>
@@ -41,6 +41,7 @@ _________|_________________|_______________________|_____________________|______
   <img src="creature_light.png" class="light-mode-img" width="300" alt="Creature Light" style="margin: 0;">
   <img src="creature_dark.png" class="dark-mode-img" width="300" alt="Creature Dark" style="margin: 0;">
 </div>
+
 original creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work)
 # **> whoami ¿**
 **[Seth W.](https://seth-woo.github.io/)** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
