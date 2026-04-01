@@ -1,11 +1,12 @@
 ---
-title: "Welcome to :re garden"
+title: Welcome to :re garden
 tags:
   - quartz
   - autonomy
   - musings
   - tasks
   - zettelkasten
+  - plan
 ---
 # > **:re ¿**
 re as in **Reply** (*Re:*), as in **Regarding** (*Latin: in re*), as in **Zero** or **Rebirth** (*零*), and as in **King** (*Maltese: Re*).
