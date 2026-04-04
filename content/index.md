@@ -1,5 +1,5 @@
 ---
-title: :re garden
+title: °.ೃ࿔*°
 tags:
   - quartz
   - autonomy
@@ -29,9 +29,7 @@ tags:
 _________|_________________|_______________________|_____________________|____________________|________________|____
 ```
 
-# **> :re garden ¿**
-
-**:re garden** ethos
+> **:re garden** ethos (original creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work))
 
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
 <div style="border: 2px dotted var(--gray); border-radius: 5px; padding: 0.5rem; min-width: 200px; min-height: 150px;">
@@ -48,8 +46,6 @@ _________|_________________|_______________________|_____________________|______
   <img src="creature_dark.png" class="dark-mode-img" width="300" alt="Creature Dark" style="margin: 0;">
 </div>
 
-original creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work)
-
 # **> whoami ¿**
 
-**[Seth W.](https://seth-woo.github.io/)** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
+> **[Seth W.](https://seth-woo.github.io/)** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
