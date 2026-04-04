@@ -1,12 +1,12 @@
 ---
-title: °.ೃ࿔*°
+title: Welcome to :re garden
 tags:
   - quartz
   - autonomy
   - musings
+  - plan
   - tasks
   - zettelkasten
-  - plan
 ---
 # > **:re ¿**
 
@@ -28,6 +28,7 @@ tags:
         \ /               \ /                     \ /                   \ /                  \ /        v     \ /
 _________|_________________|_______________________|_____________________|____________________|________________|____
 ```
+
 # **> whoami ¿**
 
 > **[Seth W.](https://seth-woo.github.io/)** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
@@ -35,3 +36,4 @@ _________|_________________|_______________________|_____________________|______
 <span style="font-family: 'Reenie Beanie'; font-size: 20px;">
 "To live is to suffer; to survive is to find some meaning in the suffering." - Friedrich Nietzsche
 </span>
+
