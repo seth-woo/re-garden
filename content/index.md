@@ -32,16 +32,6 @@ _________|_________________|_______________________|_____________________|______
 > **:re garden** ethos (original creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work))
 
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
-<div style="border: 2px dotted var(--gray); border-radius: 5px; padding: 0.5rem; min-width: 200px; min-height: 150px;">
-    memetic echoes ...<br>
-    of experiences never lived<br>
-    <br>
-    nostalgia without origin ...<br>
-	fragments seeking form<br>
-	<br>
-    recombined here ... <br>
-    the garden starts again .☘︎ ݁˖
-  </div>
   <img src="creature_light.png" class="light-mode-img" width="300" alt="Creature Light" style="margin: 0;">
   <img src="creature_dark.png" class="dark-mode-img" width="300" alt="Creature Dark" style="margin: 0;">
 </div>
@@ -49,6 +39,6 @@ _________|_________________|_______________________|_____________________|______
 
 > **[Seth W.](https://seth-woo.github.io/)** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
 
-<span style="font-family: 'Reenie Beanie'; font-size: 18px;">
+<span style="font-family: 'Reenie Beanie'; font-size: 20px;">
 "To live is to suffer; to survive is to find some meaning in the suffering." - Friedrich Nietzsche
 </span>
