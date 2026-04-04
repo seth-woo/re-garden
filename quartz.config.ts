@@ -26,9 +26,9 @@ const config: QuartzConfig = {
         // header: "Schibsted Grotesk",
         // body: "Source Sans Pro",
         // code: "IBM Plex Mono",
-        header: "Pixelify Sans",
-        body: "Inter",
-        code: "IBM Plex Mono",
+        header: "Fira Code",
+        body: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
