@@ -10,11 +10,8 @@
 }
 
 @font-face {
-    font-family: "Reenie Beanie";
-    src: url("/fonts/ReenieBeanie-Regular.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'Reenie Beanie';
+  src: url('/static/fonts/ReenieBeanie-Regular.ttf') format('truetype');
 }
 
 body[data-slug="index"] .article-title {
