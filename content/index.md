@@ -35,6 +35,7 @@ _________|_________________|_______________________|_____________________|______
   <img src="creature_light.png" class="light-mode-img" width="300" alt="Creature Light" style="margin: 0;">
   <img src="creature_dark.png" class="dark-mode-img" width="300" alt="Creature Dark" style="margin: 0;">
 </div>
+
 # **> whoami ¿**
 
 > **[Seth W.](https://seth-woo.github.io/)** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
