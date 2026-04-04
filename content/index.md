@@ -1,5 +1,5 @@
 ---
-title: Welcome to :re garden
+title: :re garden
 tags:
   - quartz
   - autonomy
@@ -9,10 +9,14 @@ tags:
   - plan
 ---
 # > **:re ¿**
+
 re as in **Reply** (*Re:*), as in **Regarding** (*Latin: in re*), as in **Zero** or **Rebirth** (*零*), and as in **King** (*Maltese: Re*).
 **:re garden** - a sovereign garden of thought, where ideas return, begin again and grow into the person who tends them.
+
 # **> garden ¿**
+
 **:re garden**  - an online, personal knowledge base, consisting of **imperfect**, **incomplete**, **evolving** notes, ideas, and **seedling** thoughts. These **seedlings** are updated, pruned and refined over time so they may eventually mature.
+
 ```
         o   o        v      .   .          o          *   *      v         o   o                     o    .   .
          \ /                 \ /                       \ /                  \ /        v                   \ /
@@ -25,7 +29,9 @@ re as in **Reply** (*Re:*), as in **Regarding** (*Latin: in re*), as in **Zero**
         \ /               \ /                     \ /                   \ /                  \ /        v     \ /
 _________|_________________|_______________________|_____________________|____________________|________________|____
 ```
+
 # **> :re garden ¿**
+
 **:re garden** ethos
 
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
@@ -44,5 +50,7 @@ _________|_________________|_______________________|_____________________|______
 </div>
 
 original creature form by [Yusuf Bingöl](https://www.instagram.com/yusuf.work)
+
 # **> whoami ¿**
+
 **[Seth W.](https://seth-woo.github.io/)** - digital gardener and maintainer of  [**:re garden**](https://seth-woo.github.io/re-garden/).
