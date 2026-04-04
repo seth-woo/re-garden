@@ -10,10 +10,14 @@
 }
 
 @font-face {
-  font-family: 'Reenie Beanie';
-  src: url('/static/fonts/ReenieBeanie-Regular.ttf') format('truetype');
+  font-family: "Reenie Beanie";
+  src: url("fonts/ReenieBeanie-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
-body[data-slug="index"] .article-title {
+body[data-slug="index"] .article-title,
+body[data-slug=""] .article-title {
     font-family: "Reenie Beanie", var(--headerFont), cursive;
 }
