@@ -1,5 +1,5 @@
 ---
-title: Welcome to :re garden
+title: :re garden
 tags:
   - quartz
   - autonomy
