@@ -1,5 +1,5 @@
 ---
-title: :re garden
+title: Welcome :)
 tags:
   - quartz
   - autonomy
@@ -36,4 +36,3 @@ _________|_________________|_______________________|_____________________|______
 <span style="font-family: 'Reenie Beanie'; font-size: 20px;">
 "To live is to suffer; to survive is to find some meaning in the suffering." - Friedrich Nietzsche
 </span>
-
