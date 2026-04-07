@@ -26,7 +26,7 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     // const iconPath = joinSegments(baseDir, "static/icon.png")
-    const iconPath = joinSegments(baseDir, "static/re_garden.png")
+    const iconPath = joinSegments(baseDir, "static/seeing_hamsa.png")
 
     // Url of current page
     const socialUrl =
