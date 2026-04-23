@@ -6,7 +6,7 @@ tags:
 ---
 B-LOG TO-DOs
 
-- [ ] Essentials (Felt Wool Mat, Garments, Travel Luggage, etc.) 🆔 b1xtnt 
+- [ ] Essentials (Garments, Travel Luggage, USB-C Hub, Packing Cubes, etc.) 🆔 b1xtnt 
 - [ ] Closet Purge
 - [ ] Physical Driving License
 - [ ] Health Check-up
