@@ -10,3 +10,4 @@ B-LOG TO-DOs
 - [x] Closet Purge (Bag, Boots, Trousers) 🆔 wntqb0 ✅ 2026-04-27
 - [ ] Physical Driving License
 - [ ] Health Check-up
+- [ ] Personal Website Prototyping
