@@ -8,6 +8,7 @@ tags:
   - tasks
   - zettelkasten
   - read
+  - "#index"
 ---
 # > **:re ¿**
 

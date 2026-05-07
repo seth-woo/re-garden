@@ -2,6 +2,7 @@
 title: Philosophy of Quartz
 draft: false
 tags:
+  - index
 ---
 
 ## A garden should be a true hypertext
