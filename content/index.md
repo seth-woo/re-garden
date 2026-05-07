@@ -7,6 +7,7 @@ tags:
   - plan
   - tasks
   - zettelkasten
+  - read
 ---
 # > **:re ¿**
 
