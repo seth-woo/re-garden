@@ -11,4 +11,4 @@ B-LOG TO-DOs
 - [ ] Physical Driving License
 - [ ] Health Check-up
 - [x] Personal Website Prototyping ✅ 2026-05-12
-- [ ] Personal Website Fixes (Previous/Next Navigation for Projects, Site Favicon, Image Placeholder, Hover Effect, Hostname, Deployment)
+- [ ] Personal Website Fixes (Site Favicon, Image Placeholder, Hover Effect, Hostname, Deployment)
