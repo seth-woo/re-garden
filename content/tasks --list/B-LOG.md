@@ -12,4 +12,4 @@ B-LOG TO-DOs
 - [ ] New ID
 - [ ] Health Check-up
 - [x] Personal Website Prototyping ✅ 2026-05-12
-- [ ] Personal Website Fixes (Project Halftone Orb Coloring, Image Placeholder, Hover Effect, Hostname, Deployment)
+- [ ] Personal Website Fixes (Image Placeholder, Hover Effect, Hostname, Deployment)
