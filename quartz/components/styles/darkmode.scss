@@ -30,18 +30,18 @@
 
 :root[saved-theme="dark"] .darkmode {
   & > .dayIcon {
-    display: none;
+    display: inline;
   }
   & > .nightIcon {
-    display: inline;
+    display: none;
   }
 }
 
 :root .darkmode {
   & > .dayIcon {
-    display: inline;
+    display: none;
   }
   & > .nightIcon {
-    display: none;
+    display: inline;
   }
 }
