@@ -8,6 +8,7 @@ B-LOG TO-DOs
 
 - [ ] Essentials (Garments, Travel Luggage, USB-C Hub, Packing Cubes, Felt Wool Mat, Power bank, Universal Adapter etc.) 🆔 b1xtnt 
 - [ ] Closet Purge II (Pants, Shirt, Custom Jacket)
+- [ ] Replicate Family SOS Note on iPhone
 - [ ] Physical Driving License Renewal
 - [ ] New ID
 - [ ] Health Check-up
