@@ -13,7 +13,7 @@ B-LOG TO-DOs
 - [ ] New ID
 - [ ] Health Check-up
 - [x] Personal Website Prototyping ✅ 2026-05-12
-- [ ] Personal Website Fixes (Image Placeholder, Hover Effect, Domain Name, Deployment)
+- [ ] Personal Website Fixes (Image Placeholder, Domain Name, Deployment)
 - [ ] Crosspoint Firmware Installation
 - [ ] Set Up XTEINK X4
 - [ ] EPUB Library Curation
