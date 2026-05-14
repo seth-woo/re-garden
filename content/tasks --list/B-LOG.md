@@ -12,7 +12,7 @@ B-LOG TO-DOs
 - [ ] Physical Driving License Renewal
 - [ ] New ID
 - [ ] Health Check-up
-- [ ] Personal Website Fixes (Image Placeholder, Domain Name, Deployment)
+- [ ] Personal Website Fixes (Domain Name, Deployment)
 - [ ] Crosspoint Firmware Installation
 - [ ] Set Up XTEINK X4
 - [ ] EPUB Library Curation
