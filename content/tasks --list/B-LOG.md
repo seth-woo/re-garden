@@ -12,6 +12,3 @@ B-LOG TO-DOs
 - [ ] New ID
 - [ ] Health Check-up
 - [ ] Personal Website Fixes (Domain Name, Deployment)
-- [ ] Crosspoint Firmware Installation
-- [ ] Set Up XTEINK X4
-- [ ] EPUB Library Curation
