@@ -12,3 +12,6 @@ B-LOG TO-DOs
 - [ ] New ID
 - [ ] Health Check-up
 - [ ] Personal Website Fixes (Domain Name, Deployment)
+- [ ] SPL Before 10/6/2026
+- [ ] SPL Before 10/7/2026
+- [ ] SPL Before 10/8/2026
