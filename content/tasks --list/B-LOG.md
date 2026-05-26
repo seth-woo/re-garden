@@ -18,5 +18,4 @@ B-LOG TO-DOs
 - [ ] Atmospheric Playlist Curation
 - [ ] Pinterest Curation
 - [ ] Beacons.ai setup
-- [ ] TT Following Purge
 - [ ] LAMY purchase
