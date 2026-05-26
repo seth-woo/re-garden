@@ -7,8 +7,8 @@ tags:
 B-LOG TO-DOs
 
 - [ ] Essentials (Garments, Travel Luggage, USB-C Hub, Packing Cubes, Felt Wool Mat, Power bank, Universal Adapter etc.) 🆔 b1xtnt 
-- [ ] Replicate Family SOS Note on iPhone
-- [ ] Physical Driving License Renewal
+- [ ] Replicate Family Note on iPhone
+- [ ] Driving License Renewal
 - [ ] New ID
 - [ ] Health Check-up
 - [ ] Personal Website Fixes (Domain Name, Deployment)
@@ -16,6 +16,5 @@ B-LOG TO-DOs
 - [ ] SPL #2 Before 10/7/2026
 - [ ] SPL #3 Before 10/8/2026
 - [ ] Atmospheric Playlist Curation
-- [ ] Pinterest Curation
 - [ ] Beacons.ai setup
 - [ ] LAMY purchase
