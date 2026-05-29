@@ -11,7 +11,7 @@ B-LOG TO-DOs
 - [ ] Driving License Renewal
 - [ ] New ID
 - [ ] Health Check-up
-- [ ] Personal Website Fixes (Domain Name, Deployment)
+- [ ] Personal Website (Domain Name, Deployment)
 - [ ] SPL #1 Before 10/6/2026
 - [ ] SPL #2 Before 10/7/2026
 - [ ] SPL #3 Before 10/8/2026
