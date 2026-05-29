@@ -15,6 +15,4 @@ B-LOG TO-DOs
 - [ ] SPL #1 Before 10/6/2026
 - [ ] SPL #2 Before 10/7/2026
 - [ ] SPL #3 Before 10/8/2026
-- [ ] Atmospheric Playlist Curation
-- [ ] Beacons.ai setup
 - [ ] LAMY purchase
