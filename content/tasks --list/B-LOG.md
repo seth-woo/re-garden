@@ -13,6 +13,5 @@ B-LOG TO-DOs
 - [ ] Health Check-up
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] EPUB to XTC Conversion Test 
-- [ ] SPL #3 Before 10/8/2026
 - [ ] LAMY Purchase
 - [ ] Traveler's Notebook Purchase
