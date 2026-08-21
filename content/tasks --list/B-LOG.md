@@ -11,7 +11,8 @@ B-LOG TO-DOs
 - [ ] Driving License Renewal
 - [ ] New ID
 - [ ] Health Check-up
+- [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
-- [ ] EPUB to XTC Conversion Test 
-- [ ] LAMY Purchase
-- [ ] Traveler's Notebook Purchase
+- [ ] Pay M---s Bill 
+- [ ] Inter-acc Fund Transfer for RHB and HSBC
+- [ ] Key Collection & Defect Check for TGV on 📅 2026-08-26 at 10am
