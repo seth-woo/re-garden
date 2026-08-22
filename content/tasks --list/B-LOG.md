@@ -13,6 +13,3 @@ B-LOG TO-DOs
 - [ ] Health Check-up
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
-- [ ] Pay M---s Bill 
-- [ ] Inter-acc Fund Transfer for RHB and HSBC
-- [ ] Key Collection & Defect Check for TGV on 📅 2026-08-26 at 10am
