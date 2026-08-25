@@ -16,4 +16,3 @@ B-LOG TO-DOs
 - [ ] Contact PB for Safety Deposit Box CC Payment Enquiry
 - [ ] Contact HSBC to Cancel Direct Debit for LG
 - [ ] Change Payment Card for Insurance for WH, and WK in AIA+ App
-- [ ] Ask Dev regarding monthly maintenance fee for TGV
