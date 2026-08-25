@@ -14,5 +14,6 @@ B-LOG TO-DOs
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Contact PB for Safety Deposit Box CC Payment Enquiry
-- [ ] Contact HSBC to Cancel Direct Debit for LG
+- [ ] Contact HSBC to Cancel Direct Debit for LG + Withdraw TD
 - [ ] Change Payment Card for Insurance for WH, and WK in AIA+ App
+- [ ] Remuneration Check for Aug 26
