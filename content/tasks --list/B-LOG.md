@@ -17,3 +17,4 @@ B-LOG TO-DOs
 - [ ] Contact HSBC to Cancel Direct Debit for LG + Withdraw TD
 - [ ] Change Payment Card for Insurance for WH, and WK in AIA+ App
 - [ ] Remuneration Check for Aug 26
+- [ ] Download GProp Application
