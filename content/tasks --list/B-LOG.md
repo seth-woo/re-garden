@@ -6,7 +6,7 @@ tags:
 ---
 B-LOG TO-DOs
 
-- [ ] Essentials (Garments, Travel Luggage, Packing Cubes, Power bank, Universal Adapter etc.) 🆔 b1xtnt 
+- [ ] Study/Travel Essentials
 - [ ] Replicate SOS Note on iPhone
 - [ ] Driving License Renewal
 - [ ] Health Check-up
