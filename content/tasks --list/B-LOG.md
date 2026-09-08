@@ -12,3 +12,5 @@ B-LOG TO-DOs
 - [ ] Health Check-up
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
+- [ ] Change Payment Card for Insurance for WH, and WK in AIA+ App
+- [ ] PB Safety Deposit Box CC Payment Enquiry
