@@ -23,5 +23,6 @@ B-LOG TO-DOs
 - [ ] Service of Blue Car (Sept 26')
 - [ ] Defect Inspection on 29/9 10am
 - [ ] Cancellation of Unifi
+- [ ] Cancellation of Go Subscription
 - [ ] 5x PB Cheques Creation
 - [ ] Lawyer Consultation on Post-D Proceedings
