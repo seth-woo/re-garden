@@ -26,3 +26,5 @@ B-LOG TO-DOs
 - [ ] Cancellation of Go Subscription
 - [ ] 5x PB Cheques Creation
 - [ ] Lawyer Consultation on Post-D Proceedings
+- [ ] Setup of Mom's Wise Acc
+- [ ] Cancelation of JPJ License
