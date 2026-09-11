@@ -12,12 +12,14 @@ B-LOG TO-DOs
 - [ ] Health Check-up
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
+- [ ] Closure of Personal AmBank acc (October 26')
 - [ ] Change Payment Card for Insurance for WH, and WK in AIA+ App
 - [ ] LG Change of Ownership and new Auto Debit (Requires DCert)
 - [ ] Change of House + Car Ownership Details
 - [ ] Withdrawal of HSBC joint acc (Sept 15 onwards)
 - [ ] Check FD Interest Credit in PB (Sept 16 onwards)
 - [ ] Opening of new joint saving accs + setup of online banking apps
+- [ ] Opening of new FDs and secured CCs
 - [ ] Purchase of flight + train tickets for WK
 - [ ] Service + Sale of Yellow Car (Oct 26')
 - [ ] Service of Blue Car (Sept 26')
