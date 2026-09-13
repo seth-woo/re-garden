@@ -16,8 +16,6 @@ B-LOG TO-DOs
 - [ ] Change Payment Card for Insurance for WH, and WK in AIA+ App
 - [ ] LG Change of Ownership and new Auto Debit (Requires DCert)
 - [ ] Change of House + Car Ownership Details
-- [ ] Withdrawal of HSBC joint acc (Sept 15 onwards)
-- [ ] Check FD Interest Credit in PB (Sept 16 onwards)
 - [ ] Opening of new joint saving accs + setup of online banking apps
 - [ ] Opening of new FDs and secured CCs
 - [ ] Purchase of flight + train tickets for WK
