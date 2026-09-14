@@ -13,8 +13,6 @@ B-LOG TO-DOs
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Closure of Personal AmBank acc (October 26')
-- [ ] Change Payment Card for Insurance for WH, and WK in AIA+ App
-- [ ] LG Change of Ownership and new Auto Debit (Requires DCert)
 - [ ] Change of House + Car Ownership Details
 - [ ] Opening of new joint saving accs + setup of online banking apps
 - [ ] Opening of new FDs and secured CCs
