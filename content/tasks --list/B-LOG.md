@@ -18,7 +18,6 @@ B-LOG TO-DOs
 - [ ] Opening of new FDs and secured CCs
 - [ ] Purchase of flight + train tickets for WK
 - [ ] Service + Sale of Yellow Car (Oct 26')
-- [ ] Service of Blue Car (Sept 26')
 - [ ] Defect Inspection on 29/9 10am
 - [ ] Cancellation of Unifi
 - [ ] 5x PB Cheques Creation
