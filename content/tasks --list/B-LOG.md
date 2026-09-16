@@ -24,3 +24,4 @@ B-LOG TO-DOs
 - [ ] Lawyer Consultation on Post-D Proceedings
 - [ ] Setup of Mom's Wise Acc
 - [ ] Mom's new phone
+- [ ] Setup of 3-Name Safe Deposit Box
