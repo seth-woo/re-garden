@@ -9,6 +9,7 @@ B-LOG TO-DOs
 - [ ] Study/Travel Essentials
 - [ ] Replicate SOS Note on iPhone
 - [ ] Driving License Renewal
+- [ ] ID Renewal
 - [ ] Health Check-up
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
@@ -18,10 +19,7 @@ B-LOG TO-DOs
 - [ ] Opening of new FDs and secured CCs
 - [ ] Purchase of flight + train tickets for WK
 - [ ] Service + Sale of Yellow Car (Oct 26')
-- [ ] Defect Inspection on 29/9 10am
-- [ ] Cancellation of Unifi
 - [ ] 5x PB Cheques Creation
-- [ ] Lawyer Consultation on Post-D Proceedings
 - [ ] Setup of Mom's Wise Acc
-- [ ] Mom's new phone
+- [ ] Setup of Mom's new phone
 - [ ] Setup of 3-Name Safe Deposit Box
