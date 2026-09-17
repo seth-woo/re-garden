@@ -14,11 +14,12 @@ B-LOG TO-DOs
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Closure of Personal AmBank acc (October 26')
-- [ ] Change of House + Car Ownership Details
+- [ ] Change of House Ownership Details
+- [ ] Change of Car Ownership Details
 - [ ] Opening of new joint saving accs + setup of online banking apps
 - [ ] Opening of new FDs and secured CCs
 - [ ] Purchase of flight + train tickets for WK
-- [ ] Service + Sale of Yellow Car (Oct 26')
+- [ ] Sale of Yellow Car (Oct 26')
 - [ ] 5x PB Cheques Creation
 - [ ] Setup of Mom's Wise Acc
 - [ ] Setup of Mom's new phone
