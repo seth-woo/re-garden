@@ -26,6 +26,7 @@ B-LOG TO-DOs
 - [ ] Opening of new FDs and secured CCs
 - [ ] Purchase of flight + train tickets for WK
 - [ ] 5x PB Cheques Creation
-- [ ] Setup of Mom's Wise Acc
+- [ ] Setup of Mom's Wise Acc (Future)
 - [ ] Setup of Mom's new phone
 - [ ] Setup of 3-Name Safe Deposit Box
+- [ ] GE Insurance Enquiry
