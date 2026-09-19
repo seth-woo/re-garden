@@ -29,5 +29,3 @@ B-LOG TO-DOs
 - [ ] Setup of Mom's Wise Acc (Future)
 - [ ] Setup of Mom's new phone
 - [ ] Setup of 3-Name Safe Deposit Box
-- [ ] GE Insurance Enquiry
-- [ ] Probate Documents Prep
