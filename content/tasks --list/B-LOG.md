@@ -10,7 +10,7 @@ B-LOG TO-DOs
 - [ ] Setup of Hotlink Pantas for MY Number Retention
 - [ ] Replicate SOS Note on iPhone
 - [ ] Driving License Renewal
-- [ ] ID Renewal
+- [ ] ID Renewal (Future)
 - [ ] Health Check-up
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
