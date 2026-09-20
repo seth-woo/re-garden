@@ -10,7 +10,6 @@ B-LOG TO-DOs
 - [ ] Setup of Hotlink Pantas for MY Number Retention
 - [ ] Replicate SOS Note on iPhone
 - [ ] Driving License Renewal
-- [ ] ID Renewal (Future)
 - [ ] Health Check-up
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
@@ -25,7 +24,8 @@ B-LOG TO-DOs
 - [ ] Opening of new joint saving accs + setup of online banking apps
 - [ ] Opening of new FDs and secured CCs
 - [ ] Purchase of flight + train tickets for WK
-- [ ] 5x PB Cheques Creation
-- [ ] Setup of Mom's Wise Acc (Future)
+- [ ] PB Cheques Creation
 - [ ] Setup of Mom's new phone
 - [ ] Setup of 3-Name Safe Deposit Box
+- [ ] ID Renewal (Future)
+- [ ] Setup of Mom's Wise Acc (Future)
