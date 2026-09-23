@@ -19,13 +19,10 @@ B-LOG TO-DOs
 - [ ] Change of Car Ownership Details (Pending Probate)
 - [ ] Sale of Yellow Car (Pending Probate)
 - [ ] House Loan Settlement (Pending Refund, Probate or NOT)
-- [ ] Refund of WK's Semester Fees
-- [ ] Unilodge Refund for WK
 - [ ] Opening of new joint saving accs + setup of online banking apps
 - [ ] Opening of new FDs and secured CCs
-- [ ] Purchase of flight + train tickets for WK
 - [ ] PB Cheques Creation
 - [ ] Setup of Mom's new phone
 - [ ] Setup of 3-Name Safe Deposit Box
 - [ ] ID Renewal (Future)
-- [ ] Setup of Mom's Wise Acc (Future)
+- [ ] Setup of Mom's Wise Acc (Future) 
