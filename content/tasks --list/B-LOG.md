@@ -13,7 +13,8 @@ B-LOG TO-DOs
 - [ ] Health Check-up
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
-- [ ] Closure of Personal AmBank acc (October 26')
+- [ ] Closure of Personal AmBank acc (beginning of Oct 26')
+- [ ] Cancellation of Unifi (end of Oct 26')
 - [ ] Probate Application (Pending Documents, Pending Refund)
 - [ ] Change of House Ownership Details (Pending Probate)
 - [ ] Change of Car Ownership Details (Pending Probate)
