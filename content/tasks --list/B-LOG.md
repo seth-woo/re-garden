@@ -23,7 +23,6 @@ B-LOG TO-DOs
 - [ ] House Loan Settlement (Pending Refund, Probate or NOT)
 - [ ] Disbursement of Survivor Pension
 - [ ] Disbursement of Phase 4 STR 2026
-- [ ] Disbursement of EPF Round 1
 - [ ] Disbursement of MyKasih 2026
 - [ ] Opening of new joint saving accs + setup of online banking apps
 - [ ] Opening of new FDs and secured CCs
