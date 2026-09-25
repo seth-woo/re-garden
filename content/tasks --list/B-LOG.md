@@ -14,21 +14,16 @@ B-LOG TO-DOs
 - [ ] Health Check-up
 - [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
-- [ ] Closure of Personal AmBank acc (beginning of Oct 26')
-- [ ] Cancellation of Unifi (end of Oct 26')
-- [ ] Probate Application (Pending Documents, Pending Refund)
-- [ ] Change of House Ownership Details (Pending Probate)
-- [ ] Change of Car Ownership Details (Pending Probate)
+- [ ] Probate Application (Pending Refund)
+- [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
+- [ ] Change of Car Ownership Details for Yellow + Blue Cars (Pending Probate)
 - [ ] Sale of Yellow Car (Pending Probate)
-- [ ] House Loan Settlement (Pending Refund, Probate or NOT)
+- [ ] PB House Loan Full Settlement (Pending Refund, Probate or NOT)
 - [ ] Disbursement of Survivor Pension
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
-- [ ] Opening of new joint saving accs + setup of online banking apps
-- [ ] Opening of new FDs and secured CCs
 - [ ] PB Cheques Creation
-- [ ] Setup of Mom's new phone
-- [ ] Setup of 3-Name Safe Deposit Box
+- [ ] Setup of 3-Name Safe Deposit Box (Pending WK's Return)
 - [ ] ID Renewal (Future)
-- [ ] Setup of Mom's Wise Acc (Future) 
+- [ ] Setup of Mom's Wise Acc (Future)
 - [ ] STR 2027 Application for Mom (Future)
