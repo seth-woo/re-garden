@@ -24,6 +24,7 @@ B-LOG TO-DOs
 - [ ] Disbursement of MyKasih 2026
 - [ ] PB Cheques Creation
 - [ ] Setup of 3-Name Safe Deposit Box (Pending WK's Return)
+- [ ] Closure of current TNB Account and Transfer of Ownership (Future)
 - [ ] ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
 - [ ] STR 2027 Application for Mom (Future)
