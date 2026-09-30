@@ -12,7 +12,6 @@ B-LOG TO-DOs
 - [ ] Driving License Renewal
 - [ ] Birthday Charity
 - [ ] Health Check-up
-- [ ] Populate quartz --help
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Probate Application (Pending Refund)
 - [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
