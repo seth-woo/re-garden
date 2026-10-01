@@ -18,7 +18,6 @@ B-LOG TO-DOs
 - [ ] Change of Car Ownership Details for Yellow + Blue Cars (Pending Probate)
 - [ ] Sale of Yellow Car (Pending Probate)
 - [ ] PB House Loan Full Settlement (Pending Refund, Probate or NOT)
-- [ ] Disbursement of Survivor Pension
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
 - [ ] PB Cheques Creation
