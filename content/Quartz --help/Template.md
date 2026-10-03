@@ -1,5 +1,5 @@
 ---
-title: Frontmatter Template
+title: Template
 draft: false
 tags:
   - quartz

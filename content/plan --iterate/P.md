@@ -1,6 +1,7 @@
 ---
-title: Z1
+title: P
 draft: false
 tags:
-  - zettelkasten
+  - plan
+aliases:
 ---

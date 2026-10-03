@@ -1,10 +1,10 @@
 ---
-title: B-LOG
+title: T B-LOGs
 draft: true
 tags:
   - tasks
 ---
-B-LOG TO-DOs
+TO-DOs
 
 - [ ] Study/Travel Essentials
 - [ ] Setup of Hotlink Pantas for MY Number Retention
@@ -22,6 +22,8 @@ B-LOG TO-DOs
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
 - [ ] PB Cheques Creation
+- [ ] CC Application
+- [ ] Pre-Trip Service of Proton
 - [ ] Setup of 3-Name Safe Deposit Box (Pending WK's Return)
 - [ ] Closure of current & TGVR TNB Account and Transfer of Ownership (Future)
 - [ ] ID Renewal (Future)

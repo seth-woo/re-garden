@@ -1,5 +1,5 @@
 ---
-title: Quartz Showcase
+title: Showcase
 draft: false
 tags:
   - index

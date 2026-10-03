@@ -1,6 +1,6 @@
 ---
-title: R1
+title: Z
 draft: false
 tags:
-  - read
+  - zettelkasten
 ---

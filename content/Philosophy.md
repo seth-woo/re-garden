@@ -1,5 +1,5 @@
 ---
-title: Philosophy of Quartz
+title: Philosophy
 draft: false
 tags:
   - index
