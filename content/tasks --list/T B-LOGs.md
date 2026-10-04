@@ -22,6 +22,7 @@ TO-DOs
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
 - [ ] PB Cheques Creation
+- [ ] Lawyer Appointment for Probate Application Enquiry
 - [ ] Setup of 3-Name Safe Deposit Box (Pending WK's Return)
 - [ ] Closure of current & TGVR TNB Account and Transfer of Ownership (Future)
 - [ ] ID Renewal (Future)
