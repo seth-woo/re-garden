@@ -7,7 +7,6 @@ tags:
 TO-DOs
 
 - [ ] Study/Travel Essentials
-- [ ] Setup of Hotlink Pantas for MY Number Retention
 - [ ] Replicate SOS Note on iPhone
 - [ ] Driving License Renewal
 - [ ] Birthday Charity
@@ -24,6 +23,7 @@ TO-DOs
 - [ ] PB Cheques Creation
 - [ ] Lawyer Appointment for Probate Application Enquiry
 - [ ] Setup of 3-Name Safe Deposit Box (Pending WK's Return)
+- [ ] Closure of Current Maxis Contract, Setup New Contract, Postpaid to Prepaid (Pending WK's Return)
 - [ ] Closure of current & TGVR TNB Account and Transfer of Ownership (Future)
 - [ ] ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
