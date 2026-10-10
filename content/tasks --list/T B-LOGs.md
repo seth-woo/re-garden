@@ -6,9 +6,8 @@ tags:
 ---
 TO-DOs
 
-- [ ] Study/Travel Essentials
-- [ ] Replicate SOS Note on iPhone
-- [ ] Driving License Renewal
+- [ ] Family Archive Project
+- [ ] Physical Driving License Card Application
 - [ ] Birthday Charity
 - [ ] Health Check-up
 - [ ] Personal Website (Domain Name, Deployment)
@@ -16,14 +15,11 @@ TO-DOs
 - [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
 - [ ] Change of Car Ownership Details for Yellow + Blue Cars (Pending Probate)
 - [ ] Sale of Yellow Car (Pending Probate)
-- [ ] PB House Loan Full Settlement (Pending Refund, Probate or NOT)
 - [ ] Disbursement of Survivor Pension
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
 - [ ] PB Cheques Creation
-- [ ] Lawyer Appointment for Probate Application Enquiry
-- [ ] Setup of 3-Name Safe Deposit Box (Pending WK's Return)
-- [ ] Closure of Current Maxis Contract, Setup New Contract, Postpaid to Prepaid (Pending WK's Return)
+- [ ] TGVR Renovation Works
 - [ ] Closure of current & TGVR TNB Account and Transfer of Ownership (Future)
 - [ ] ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
