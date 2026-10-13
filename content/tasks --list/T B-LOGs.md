@@ -18,8 +18,9 @@ TO-DOs
 - [ ] Disbursement of Survivor Pension
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
-- [ ] PB Cheques Creation
-- [ ] TGVR Renovation Works
+- [ ] PB Cheques Creation for Charity
+- [ ] TGVR Defect Fix + Renovation Works (Defect Fix Nov 26' to Dec 26', Cabinet Fixing Dec 26', Reno Inquiry Nov 26' to Dec 26', Reno Works Jan 27' onwards)
+- [ ] Closure of current Aeon Credit Account & Setup of New Aeon Credit Account for Mom
 - [ ] Closure of current & TGVR TNB Account and Transfer of Ownership (Future)
 - [ ] MY ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
