@@ -9,6 +9,7 @@ TO-DOs
 - [ ] Family Archive Project
 - [ ] Physical Driving License Card Application
 - [ ] Birthday Charity
+- [ ] Glasses Renewal
 - [ ] Health Check-up
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Probate Application (Pending Refund)
