@@ -12,17 +12,17 @@ TO-DOs
 - [ ] Glasses Renewal
 - [ ] Health Check-up
 - [ ] Personal Website (Domain Name, Deployment)
-- [ ] Probate Application (Pending Refund)
 - [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
 - [ ] Change of Car Ownership Details for Yellow + Blue Cars (Pending Probate)
 - [ ] Sale of Yellow Car (Pending Probate)
+- [ ]  Closure of PB, RHB & HSBC Joint Accs (Pending Probate)
+- [ ] Closure of RHB Personal Acc (Pending STR 2026)
+- [ ] Closure of current TNB Account and Transfer of Ownership (Pending Probate)
 - [ ] Disbursement of Survivor Pension
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
 - [ ] PB Cheques Creation for Charity
 - [ ] TGVR Defect Fix + Renovation Works (Defect Fix Nov 26' to Dec 26', Cabinet Fixing Dec 26', Reno Inquiry Nov 26' to Dec 26', Reno Works Jan 27' onwards)
-- [ ] Closure of current Aeon Credit Account & Setup of New Aeon Credit Account for Mom
-- [ ] Closure of current & TGVR TNB Account and Transfer of Ownership (Future)
 - [ ] MY ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
 - [ ] STR 2027 Application for Mom (Future)
