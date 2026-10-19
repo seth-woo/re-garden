@@ -7,10 +7,8 @@ tags:
 TO-DOs
 
 - [ ] Family Archive Project
-- [ ] Physical Driving License Card Application
 - [ ] Personal Birthday Charity
 - [ ] PB Cheques Creation for Charity
-- [ ] Glasses Renewal
 - [ ] Health Check-up
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
