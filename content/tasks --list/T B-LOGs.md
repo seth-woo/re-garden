@@ -8,7 +8,6 @@ TO-DOs
 
 - [ ] Family Archive Project
 - [ ] Personal Birthday Charity
-- [ ] PB Cheques Creation for Charity
 - [ ] Health Check-up
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
@@ -23,6 +22,7 @@ TO-DOs
 - [ ] Disbursement of Survivor Pension
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
+- [ ] PB Cheques for Charity (Future)
 - [ ] MY ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
 - [ ] STR 2027 Application for Mom (Future)
