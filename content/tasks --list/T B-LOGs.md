@@ -9,6 +9,8 @@ TO-DOs
 - [ ] Family Archive Project
 - [ ] Personal Birthday Charity
 - [ ] Health Check-up
+- [ ] Student Visa Application
+- [ ] Pre-departure Important Docs Prep
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
 - [ ] Change of Car Ownership Details for Yellow + Blue Cars (Pending Probate)
@@ -19,10 +21,12 @@ TO-DOs
 - [ ] Closure of current TNB Account and Transfer of Ownership (Pending Probate & Estate Acc)
 - [ ] Setup of new TGVR TNB Account (Pending Probate)
 - [ ] TGVR Defect Fix + Renovation Works (Defect Fix Nov 26' to Dec 26', Cabinet Fixing Dec 26', Reno Inquiry Nov 26' to Dec 26', Reno Works Jan 27' onwards)
-- [ ] Disbursement of Survivor Pension
+- [ ] Disbursement of Survivor Pension *Maybe* (Check again on 5th Nov 26')
+- [ ] Safekeeping of Important Docs in Safe Deposit Box (Pending Pre-departure Docs Prep)
+- [ ] Collection of Safe Deposit Box Certificate & Receipt (End of Nov 26')
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] Disbursement of MyKasih 2026
 - [ ] PB Cheques for Charity (Future)
 - [ ] MY ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
-- [ ] STR 2027 Application for Mom (Future)
+- [ ] STR 2027 Application for Mom & Grandpa (Future)
