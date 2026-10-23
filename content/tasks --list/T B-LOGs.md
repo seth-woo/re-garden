@@ -6,7 +6,6 @@ tags:
 ---
 TO-DOs
 
-- [ ] Family Archive Project
 - [ ] Personal Birthday Charity
 - [ ] Health Check-up
 - [ ] Student Visa Application
