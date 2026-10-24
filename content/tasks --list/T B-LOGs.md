@@ -24,7 +24,6 @@ TO-DOs
 - [ ] Safekeeping of Important Docs in Safe Deposit Box (Pending Pre-departure Docs Prep)
 - [ ] Collection of Safe Deposit Box Certificate & Receipt (End of Nov 26')
 - [ ] Disbursement of Phase 4 STR 2026
-- [ ] Disbursement of MyKasih 2026
 - [ ] PB Cheques for Charity (Future)
 - [ ] MY ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
