@@ -8,8 +8,11 @@ TO-DOs
 
 - [ ] Personal Birthday Charity
 - [ ] Health Check-up
-- [ ] Student Visa Application
 - [ ] Pre-departure Important Docs Prep
+- [ ] Student Visa Application
+- [ ] Purchase of Air Tickets (Pending Student Visa)
+- [ ] Student Accommodation Booking (Pending Student Visa)
+- [ ] Physical Driving License & IDP Application (Pending Air Tickets Purchase)
 - [ ] Personal Website (Domain Name, Deployment)
 - [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
 - [ ] Change of Car Ownership Details for Yellow + Blue Cars (Pending Probate)
@@ -25,6 +28,7 @@ TO-DOs
 - [ ] Collection of Safe Deposit Box Certificate & Receipt (End of Nov 26')
 - [ ] Disbursement of Phase 4 STR 2026
 - [ ] PB Cheques for Charity (Future)
-- [ ] MY ID Renewal (Future)
 - [ ] Setup of Mom's Wise Acc (Future)
-- [ ] STR 2027 Application for Mom & Grandpa (Future)
+- [ ] MY ID Renewal (Future)
+- [ ] MY Passport Renewal (Future) *before 14 Jul 2030*
+- [ ] MY Driving License Renewal (Future) *before 21 Sept 2028*
