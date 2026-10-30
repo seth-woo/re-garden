@@ -22,7 +22,7 @@ TO-DOs
 - [ ] Closure of RHB Personal Acc (Pending Probate & Disbursement of Phase 4 STR 2026)
 - [ ] Closure of current TNB Account and Transfer of Ownership (Pending Probate & Estate Acc)
 - [ ] Setup of new TGVR TNB Account (Pending Probate)
-- [ ] TGVR Defect Fix + Renovation Works (Defect Fix Nov 26' to Dec 26', Cabinet Fixing Dec 26', Reno Inquiry Nov 26' to Dec 26', Reno Works Jan 27' onwards)
+- [ ] TGVR Defect Fix + Renovation Works (Defect Fix Nov 26' to Dec 26' *Follow up with Mia in Nov 26*, Cabinet Fixing Dec 26', Reno Inquiry Nov 26' to Dec 26', Reno Works Jan 27' onwards)
 - [ ] Disbursement of Survivor Pension *Maybe* (Check again on 5th Nov 26')
 - [ ] Safekeeping of Important Docs in Safe Deposit Box (Pending Pre-departure Docs Prep)
 - [ ] Collection of Safe Deposit Box Certificate & Receipt (End of Nov 26')
