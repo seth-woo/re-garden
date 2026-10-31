@@ -7,7 +7,6 @@ tags:
 TO-DOs
 
 - [ ] Personal Birthday Charity
-- [ ] Health Check-up
 - [ ] Pre-departure Important Docs Prep
 - [ ] Student Visa Application
 - [ ] Purchase of Air Tickets (Pending Student Visa)
