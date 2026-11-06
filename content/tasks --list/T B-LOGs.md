@@ -13,7 +13,6 @@ TO-DOs
 - [ ] Student Accommodation Booking (Pending Student Visa)
 - [ ] Physical Driving License & IDP Application (Pending Air Tickets Purchase)
 - [ ] Personal Website (Domain Name, Deployment)
-- [ ] Handover of Original Title Deed for Buntong Property to Lawyer
 - [ ] Change of House Ownership Details for TGV + Buntong (Pending Probate)
 - [ ] Change of Car Ownership Details for Yellow + Blue Cars (Pending Probate)
 - [ ] Sale of Yellow Car (Pending Change of Car Ownership)
