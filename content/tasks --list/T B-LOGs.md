@@ -22,7 +22,6 @@ TO-DOs
 - [ ] Setup of new TGVR TNB Account (Pending Probate)
 - [ ] TGVR Renovation Works (Cabinet Fixing Dec 26', Reno Inquiry Nov 26' to Dec 26', Reno Works Jan 27' onwards, Pay Pre-Reno Down Payment of MYR 5k)
 - [ ] Safekeeping of Important Docs in Safe Deposit Box (Pending Pre-departure Docs Prep)
-- [ ] Collection of Safe Deposit Box Certificate & Receipt (End of Nov 26')
 - [ ] PB Cheques for Charity (Future)
 - [ ] Top up Mom's Aeon Wallet
 - [ ] Setup of Mom's Wise Acc (Future)
