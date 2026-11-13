@@ -7,8 +7,6 @@ tags:
 TO-DOs
 
 - [ ] Personal Birthday Charity
-- [ ] Pre-departure Important Docs Prep
-- [ ] Student Visa Application
 - [ ] Purchase of Air Tickets (Pending Student Visa)
 - [ ] Student Accommodation Booking (Pending Student Visa)
 - [ ] Physical Driving License & IDP Application (Pending Air Tickets Purchase)
