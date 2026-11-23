@@ -18,7 +18,7 @@ TO-DOs
 - [ ] Closure of PB, RHB & HSBC Accs (Pending Probate)
 - [ ] Closure of current TNB Account and Transfer of Ownership (Pending Probate & Estate Acc)
 - [ ] Setup of new TGVR TNB Account (Pending Probate)
-- [ ] TGVR Renovation Works (Cabinet Fixing Dec 26', Reno Inquiry Nov 26' to Dec 26', Reno Works Jan 27' onwards, Pay Pre-Reno Down Payment of MYR 5k)
+- [ ] TGVR Renovation Works (Cabinet Fixing 18 Dec 26' onwards, Reno Inquiry Nov 26' to Dec 26', Reno Works Jan 27' onwards, Pay Pre-Reno Down Payment of MYR 5k)
 - [ ] Safekeeping of Important Docs in Safe Deposit Box (Pending Pre-departure Docs Prep)
 - [ ] PB Cheques for Charity (Future)
 - [ ] Top up Mom's Aeon Wallet
